@@ -1,6 +1,6 @@
 window:
   decorations: buttonless
-  opacity: 0.95
+  opacity: 1.0
 
 font:
   normal:
@@ -15,7 +15,7 @@ font:
     family: Iosevka Nerd Font
     style: Italic
 
-  size: 16.0
+  size: 18.0
 
 # TokyoNight Alacritty Colors
 # https://github.com/folke/tokyonight.nvim/blob/main/extras/alacritty/tokyonight_day.yml
