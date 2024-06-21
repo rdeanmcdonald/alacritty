@@ -34,16 +34,16 @@ foreground = "0xc0caf5"
 size = 18.0
 
 [font.bold]
-family = "Iosevka Nerd Font"
+family = "Iosevka Nerd Font Mono"
 style = "Bold"
 
 [font.italic]
-family = "Iosevka Nerd Font"
+family = "Iosevka Nerd Font Mono"
 style = "Italic"
 
 [font.normal]
-family = "Iosevka Nerd Font"
-style = "ExtraLight"
+family = "Iosevka Nerd Font Mono"
+style = "Regular"
 
 [window]
 decorations = "buttonless"
