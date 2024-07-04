@@ -49,3 +49,4 @@ style = "Regular"
 decorations = "buttonless"
 opacity = 1.0
 option_as_alt = "Both"
+startup_mode = "Maximized"
